@@ -1,0 +1,18 @@
+.hero-btn-buy-now {
+  background-image: linear-gradient(to bottom, #e415eb 0%, #cd11f2 100%);
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
+#social-icon {
+  background-color: transparent;
+  cursor: pointer;
+  color: rgb(83, 83, 170);
+}
+
+#social-icon:hover {
+  background-color: rgb(67, 104, 214);
+  transition: all 0.5s;
+}
